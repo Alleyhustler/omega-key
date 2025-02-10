@@ -1,0 +1,31 @@
+.elementor-23 .elementor-element.elementor-element-60831e6{--display:flex;--gap:5px 0px;--background-transition:0.3s;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-widget-heading .elementor-heading-title{color:var( --e-global-color-primary );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-23 .elementor-element.elementor-element-d3a35f8 > .elementor-widget-container{margin:-13px 0px -15px 0px;}.elementor-23 .elementor-element.elementor-element-d3a35f8.elementor-element{--align-self:center;}.elementor-23 .elementor-element.elementor-element-d3a35f8{text-align:center;}.elementor-23 .elementor-element.elementor-element-d3a35f8 .elementor-heading-title{color:#000000;font-family:"mondwest mike", Sans-serif;font-size:95px;font-weight:bold;}.elementor-23 .elementor-element.elementor-element-d344ea9{--display:flex;--position:fixed;--min-height:127px;--background-transition:0.3s;top:0px;}.elementor-23 .elementor-element.elementor-element-d344ea9:not(.elementor-motion-effects-element-type-background), .elementor-23 .elementor-element.elementor-element-d344ea9 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:transparent;background-image:linear-gradient(180deg, #FFFFFFE6 60%, #FFFFFF00 100%);}.elementor-23 .elementor-element.elementor-element-d344ea9, .elementor-23 .elementor-element.elementor-element-d344ea9::before{--border-transition:0.3s;}body:not(.rtl) .elementor-23 .elementor-element.elementor-element-d344ea9{left:0px;}body.rtl .elementor-23 .elementor-element.elementor-element-d344ea9{right:0px;}@media(max-width:1024px){.elementor-23 .elementor-element.elementor-element-d344ea9{--min-height:103px;}}@media(min-width:768px){.elementor-23 .elementor-element.elementor-element-60831e6{--width:1100px;}.elementor-23 .elementor-element.elementor-element-d344ea9{--width:100%;}}@media(max-width:1300px) and (min-width:768px){.elementor-23 .elementor-element.elementor-element-60831e6{--width:96%;}}@media(max-width:1024px) and (min-width:768px){.elementor-23 .elementor-element.elementor-element-60831e6{--width:96%;}}@media(max-width:767px){.elementor-23 .elementor-element.elementor-element-60831e6{--width:92%;}.elementor-23 .elementor-element.elementor-element-d3a35f8 > .elementor-widget-container{margin:-4px 0px 0px 0px;}.elementor-23 .elementor-element.elementor-element-d3a35f8 .elementor-heading-title{font-size:60px;line-height:0.8em;}.elementor-23 .elementor-element.elementor-element-d344ea9{--min-height:110px;}}/* Start custom CSS for container, class: .elementor-element-60831e6 */#menn a {
+    text-decoration: none !important;
+    color: #000000;
+}
+
+.elementor-divider {
+    filter: brightness(0%);
+}/* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'mondwest mike';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2024/03/PPMondwest-Regular.eot');
+	src: url('../../2024/03/PPMondwest-Regulard41d.eot?#iefix') format('embedded-opentype'),
+		url('../../2024/03/PPMondwest-Regular.woff2') format('woff2'),
+		url('../../2024/03/PPMondwest-Regular-1.woff') format('woff'),
+		url('../../2024/03/PPMondwest-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'mondwest mike';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('../../2024/03/PPMondwest-Bold.eot');
+	src: url('../../2024/03/PPMondwest-Boldd41d.eot?#iefix') format('embedded-opentype'),
+		url('../../2024/03/PPMondwest-Bold.woff2') format('woff2'),
+		url('../../2024/03/PPMondwest-Bold.woff') format('woff'),
+		url('../../2024/03/PPMondwest-Bold.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */

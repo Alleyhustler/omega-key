@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.nousresearch.com	TRUE	/	FALSE	1999999999	__cf_bm	yYlXVyKL7TQOKL3v6LGQn.jdKPlmQPKPKFK2QDJKyx8-1738433105-1.0.1.1-9iyj2v4UCrQ.Tmm0iulBMLj9.OI7mYX6md3qSvp8ph6TavsqVJ9pxbO4iIl5MTM79mowUF6W4GkXLwMBg7qeng
+.nousresearch.com	TRUE	/	FALSE	1999999999	_cfuvid	L1vW0sYsj1Di.qe65VIsmzUxY30YOKdc29KH0_MG8to-1738433105788-0.0.1.1-604800000
+nousresearch.com	TRUE	/	FALSE	1999999999	SameSite	None
+

@@ -1,0 +1,33 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 01 Feb 2025 19:04:07 at https://nousresearch.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://nousresearch.com/ -O1 "C:\Users\Pakyngl\Downloads\framer\nous" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:04:40	Warning: 	Link https://nousresearch.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+19:04:45	Warning: 	Moved Permanently for https://nousresearch.com/?p=1322
+19:04:45	Warning: 	File has moved from https://nousresearch.com/?p=1322 to https://nousresearch.com/hermes3/
+19:04:46	Error: 	"Not Found" (404) at link https://nousresearch.com/hermes3/u12lGiGw2oN0hXQWxx3ex (from https://nousresearch.com/hermes3/)
+19:04:47	Warning: 	Moved Permanently for https://nousresearch.com/?p=2359
+19:04:47	Warning: 	File has moved from https://nousresearch.com/?p=2359 to https://nousresearch.com/nous-psyche/
+19:04:51	Warning: 	Moved Permanently for https://nousresearch.com/?p=23
+19:04:51	Warning: 	File has moved from https://nousresearch.com/?p=23 to https://nousresearch.com/releases/
+19:04:59	Warning: 	Moved Permanently for https://nousresearch.com/?p=29
+19:04:59	Warning: 	File has moved from https://nousresearch.com/?p=29 to https://nousresearch.com/blog/
+19:05:09	Warning: 	Moved Permanently for https://nousresearch.com/?p=1375
+19:05:09	Warning: 	File has moved from https://nousresearch.com/?p=1375 to https://nousresearch.com/freedom-at-the-frontier-hermes-3/
+19:05:09	Warning: 	Moved Permanently for https://nousresearch.com/?p=1992
+19:05:09	Warning: 	File has moved from https://nousresearch.com/?p=1992 to https://nousresearch.com/from-black-box-to-glass-house-the-imperative-for-transparent-ai-development/
+19:05:09	Warning: 	Moved Permanently for https://nousresearch.com/?p=2182
+19:05:09	Warning: 	File has moved from https://nousresearch.com/?p=2182 to https://nousresearch.com/introducing-the-forge-reasoning-api-beta-and-nous-chat-an-evolution-in-llm-inference/
+19:05:09	Warning: 	Moved Permanently for https://nousresearch.com/?p=2042
+19:05:09	Warning: 	File has moved from https://nousresearch.com/?p=2042 to https://nousresearch.com/setting-your-pet-rock-free/
+19:05:09	Warning: 	Moved Permanently for https://nousresearch.com/?p=1289
+19:05:09	Warning: 	File has moved from https://nousresearch.com/?p=1289 to https://nousresearch.com/the-instruct-monomyth/
+19:05:09	Warning: 	Moved Permanently for https://nousresearch.com/?p=908
+19:05:09	Warning: 	File has moved from https://nousresearch.com/?p=908 to https://nousresearch.com/dsjjjj-simulacra-in-the-stupor-of-becoming/
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 3 seconds : 166 links scanned, 153 files written (87959987 bytes overall) [86067177 bytes received at 1366145 bytes/sec], 3058349 bytes transferred using HTTP compression in 96 files, ratio 30%, 9.8 requests per connection
+(1 errors, 21 warnings, 0 messages)
